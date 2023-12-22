@@ -1,0 +1,1624 @@
+[11-Dec-2023 12:16:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gradqkpp/deevouge.com/poll/config.php:2
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/config.php(2): mysqli_connect()
+#1 /home/gradqkpp/deevouge.com/poll/index.php(529): require('/home/gradqkpp/...')
+#2 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 2
+[11-Dec-2023 12:16:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gradqkpp/deevouge.com/poll/createpoll.php:3
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/createpoll.php(3): mysqli_connect()
+#1 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 3
+[11-Dec-2023 12:16:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gradqkpp/deevouge.com/poll/createpoll.php:3
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/createpoll.php(3): mysqli_connect()
+#1 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 3
+[11-Dec-2023 12:16:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gradqkpp/deevouge.com/poll/config.php:2
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/config.php(2): mysqli_connect()
+#1 /home/gradqkpp/deevouge.com/poll/index.php(529): require('/home/gradqkpp/...')
+#2 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 2
+[11-Dec-2023 12:23:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gradqkpp/deevouge.com/poll/config.php:2
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/config.php(2): mysqli_connect()
+#1 /home/gradqkpp/deevouge.com/poll/index.php(529): require('/home/gradqkpp/...')
+#2 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 2
+[11-Dec-2023 12:25:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gradqkpp_pol.poll' doesn't exist in /home/gradqkpp/deevouge.com/poll/index.php:530
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/index.php(530): mysqli_query()
+#1 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/index.php on line 530
+[11-Dec-2023 12:25:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gradqkpp_pol.poll' doesn't exist in /home/gradqkpp/deevouge.com/poll/index.php:530
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/index.php(530): mysqli_query()
+#1 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/index.php on line 530
+[11-Dec-2023 12:25:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gradqkpp_pol.poll' doesn't exist in /home/gradqkpp/deevouge.com/poll/index.php:530
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/index.php(530): mysqli_query()
+#1 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/index.php on line 530
+[11-Dec-2023 12:25:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'gradqkpp_james'@'localhost' (using password: YES) in /home/gradqkpp/deevouge.com/poll/config.php:2
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/config.php(2): mysqli_connect()
+#1 /home/gradqkpp/deevouge.com/poll/index.php(529): require('/home/gradqkpp/...')
+#2 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 2
+[11-Dec-2023 12:25:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'gradqkpp_james'@'localhost' (using password: YES) in /home/gradqkpp/deevouge.com/poll/config.php:2
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/config.php(2): mysqli_connect()
+#1 /home/gradqkpp/deevouge.com/poll/index.php(529): require('/home/gradqkpp/...')
+#2 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 2
+[11-Dec-2023 12:26:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gradqkpp/deevouge.com/poll/createpoll.php:3
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/createpoll.php(3): mysqli_connect()
+#1 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 3
+[11-Dec-2023 12:26:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gradqkpp/deevouge.com/poll/createpoll.php:3
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/createpoll.php(3): mysqli_connect()
+#1 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 3
+[11-Dec-2023 12:26:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'gradqkpp_james'@'localhost' (using password: YES) in /home/gradqkpp/deevouge.com/poll/config.php:2
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/config.php(2): mysqli_connect()
+#1 /home/gradqkpp/deevouge.com/poll/index.php(529): require('/home/gradqkpp/...')
+#2 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 2
+[11-Dec-2023 12:26:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'gradqkpp_james'@'localhost' (using password: YES) in /home/gradqkpp/deevouge.com/poll/config.php:2
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/config.php(2): mysqli_connect()
+#1 /home/gradqkpp/deevouge.com/poll/index.php(529): require('/home/gradqkpp/...')
+#2 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 2
+[11-Dec-2023 12:26:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gradqkpp/deevouge.com/poll/createpoll.php:3
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/createpoll.php(3): mysqli_connect()
+#1 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 3
+[11-Dec-2023 12:26:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'gradqkpp_james'@'localhost' (using password: YES) in /home/gradqkpp/deevouge.com/poll/config.php:2
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/config.php(2): mysqli_connect()
+#1 /home/gradqkpp/deevouge.com/poll/index.php(529): require('/home/gradqkpp/...')
+#2 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 2
+[11-Dec-2023 12:26:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'gradqkpp_james'@'localhost' (using password: YES) in /home/gradqkpp/deevouge.com/poll/config.php:2
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/config.php(2): mysqli_connect()
+#1 /home/gradqkpp/deevouge.com/poll/index.php(529): require('/home/gradqkpp/...')
+#2 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 2
+[11-Dec-2023 12:27:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gradqkpp/deevouge.com/poll/createpoll.php:3
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/createpoll.php(3): mysqli_connect()
+#1 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 3
+[11-Dec-2023 12:27:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'gradqkpp_james'@'localhost' (using password: YES) in /home/gradqkpp/deevouge.com/poll/config.php:2
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/config.php(2): mysqli_connect()
+#1 /home/gradqkpp/deevouge.com/poll/index.php(529): require('/home/gradqkpp/...')
+#2 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 2
+[11-Dec-2023 12:27:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gradqkpp/deevouge.com/poll/createpoll.php:3
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/createpoll.php(3): mysqli_connect()
+#1 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 3
+[11-Dec-2023 12:27:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gradqkpp/deevouge.com/poll/createpoll.php:3
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/createpoll.php(3): mysqli_connect()
+#1 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 3
+[11-Dec-2023 12:27:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gradqkpp/deevouge.com/poll/createpoll.php:3
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/createpoll.php(3): mysqli_connect()
+#1 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 3
+[11-Dec-2023 12:32:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gradqkpp/deevouge.com/poll/createpoll.php:3
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/createpoll.php(3): mysqli_connect()
+#1 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 3
+[11-Dec-2023 12:32:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'gradqkpp_james'@'localhost' (using password: YES) in /home/gradqkpp/deevouge.com/poll/config.php:2
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/config.php(2): mysqli_connect()
+#1 /home/gradqkpp/deevouge.com/poll/index.php(529): require('/home/gradqkpp/...')
+#2 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 2
+[11-Dec-2023 12:32:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'gradqkpp_james'@'localhost' (using password: YES) in /home/gradqkpp/deevouge.com/poll/config.php:2
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/config.php(2): mysqli_connect()
+#1 /home/gradqkpp/deevouge.com/poll/index.php(529): require('/home/gradqkpp/...')
+#2 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 2
+[11-Dec-2023 12:32:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'gradqkpp_james'@'localhost' (using password: YES) in /home/gradqkpp/deevouge.com/poll/config.php:2
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/config.php(2): mysqli_connect()
+#1 /home/gradqkpp/deevouge.com/poll/index.php(529): require('/home/gradqkpp/...')
+#2 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 2
+[11-Dec-2023 12:33:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gradqkpp/deevouge.com/poll/createpoll.php:3
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/createpoll.php(3): mysqli_connect()
+#1 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 3
+[11-Dec-2023 12:33:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'gradqkpp_james'@'localhost' (using password: YES) in /home/gradqkpp/deevouge.com/poll/config.php:2
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/config.php(2): mysqli_connect()
+#1 /home/gradqkpp/deevouge.com/poll/index.php(529): require('/home/gradqkpp/...')
+#2 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 2
+[11-Dec-2023 12:33:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'gradqkpp_james'@'localhost' (using password: YES) in /home/gradqkpp/deevouge.com/poll/config.php:2
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/config.php(2): mysqli_connect()
+#1 /home/gradqkpp/deevouge.com/poll/index.php(529): require('/home/gradqkpp/...')
+#2 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 2
+[11-Dec-2023 12:33:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'gradqkpp_james'@'localhost' (using password: YES) in /home/gradqkpp/deevouge.com/poll/config.php:2
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/config.php(2): mysqli_connect()
+#1 /home/gradqkpp/deevouge.com/poll/index.php(529): require('/home/gradqkpp/...')
+#2 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 2
+[11-Dec-2023 12:33:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'gradqkpp_james'@'localhost' (using password: YES) in /home/gradqkpp/deevouge.com/poll/config.php:2
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/config.php(2): mysqli_connect()
+#1 /home/gradqkpp/deevouge.com/poll/index.php(529): require('/home/gradqkpp/...')
+#2 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 2
+[11-Dec-2023 12:33:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gradqkpp/deevouge.com/poll/createpoll.php:3
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/createpoll.php(3): mysqli_connect()
+#1 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 3
+[11-Dec-2023 12:33:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gradqkpp/deevouge.com/poll/createpoll.php:3
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/createpoll.php(3): mysqli_connect()
+#1 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 3
+[11-Dec-2023 12:34:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'gradqkpp_james'@'localhost' (using password: YES) in /home/gradqkpp/deevouge.com/poll/config.php:2
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/config.php(2): mysqli_connect()
+#1 /home/gradqkpp/deevouge.com/poll/index.php(529): require('/home/gradqkpp/...')
+#2 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 2
+[11-Dec-2023 12:38:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'gradqkpp_james'@'localhost' (using password: YES) in /home/gradqkpp/deevouge.com/poll/config.php:2
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/config.php(2): mysqli_connect()
+#1 /home/gradqkpp/deevouge.com/poll/index.php(529): require('/home/gradqkpp/...')
+#2 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 2
+[11-Dec-2023 12:41:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'gradqkpp_james'@'localhost' (using password: YES) in /home/gradqkpp/deevouge.com/poll/config.php:2
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/config.php(2): mysqli_connect()
+#1 /home/gradqkpp/deevouge.com/poll/index.php(529): require('/home/gradqkpp/...')
+#2 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 2
+[11-Dec-2023 13:48:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'gradqkpp_james'@'localhost' (using password: YES) in /home/gradqkpp/deevouge.com/poll/config.php:2
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/config.php(2): mysqli_connect()
+#1 /home/gradqkpp/deevouge.com/poll/index.php(529): require('/home/gradqkpp/...')
+#2 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 2
+[11-Dec-2023 13:48:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'gradqkpp_james'@'localhost' (using password: YES) in /home/gradqkpp/deevouge.com/poll/config.php:2
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/config.php(2): mysqli_connect()
+#1 /home/gradqkpp/deevouge.com/poll/index.php(529): require('/home/gradqkpp/...')
+#2 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 2
+[11-Dec-2023 13:49:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gradqkpp/deevouge.com/poll/createpoll.php:3
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/createpoll.php(3): mysqli_connect()
+#1 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 3
+[11-Dec-2023 13:49:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'gradqkpp_james'@'localhost' (using password: YES) in /home/gradqkpp/deevouge.com/poll/config.php:2
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/config.php(2): mysqli_connect()
+#1 /home/gradqkpp/deevouge.com/poll/index.php(529): require('/home/gradqkpp/...')
+#2 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 2
+[11-Dec-2023 13:50:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'gradqkpp_james'@'localhost' (using password: YES) in /home/gradqkpp/deevouge.com/poll/config.php:2
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/config.php(2): mysqli_connect()
+#1 /home/gradqkpp/deevouge.com/poll/index.php(529): require('/home/gradqkpp/...')
+#2 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 2
+[11-Dec-2023 13:50:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gradqkpp/deevouge.com/poll/createpoll.php:3
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/createpoll.php(3): mysqli_connect()
+#1 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 3
+[11-Dec-2023 13:50:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'gradqkpp_james'@'localhost' (using password: YES) in /home/gradqkpp/deevouge.com/poll/config.php:2
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/config.php(2): mysqli_connect()
+#1 /home/gradqkpp/deevouge.com/poll/index.php(529): require('/home/gradqkpp/...')
+#2 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 2
+[12-Dec-2023 11:20:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'gradqkpp_james'@'localhost' (using password: YES) in /home/gradqkpp/deevouge.com/poll/config.php:2
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/config.php(2): mysqli_connect()
+#1 /home/gradqkpp/deevouge.com/poll/index.php(529): require('/home/gradqkpp/...')
+#2 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 2
+[12-Dec-2023 11:21:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gradqkpp/deevouge.com/poll/createpoll.php:3
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/createpoll.php(3): mysqli_connect()
+#1 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 3
+[12-Dec-2023 11:21:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'gradqkpp_james'@'localhost' (using password: YES) in /home/gradqkpp/deevouge.com/poll/config.php:2
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/config.php(2): mysqli_connect()
+#1 /home/gradqkpp/deevouge.com/poll/index.php(529): require('/home/gradqkpp/...')
+#2 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 2
+[12-Dec-2023 11:21:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gradqkpp/deevouge.com/poll/createpoll.php:3
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/createpoll.php(3): mysqli_connect()
+#1 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 3
+[12-Dec-2023 11:30:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'gradqkpp_james'@'localhost' (using password: YES) in /home/gradqkpp/deevouge.com/poll/config.php:2
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/config.php(2): mysqli_connect()
+#1 /home/gradqkpp/deevouge.com/poll/index.php(529): require('/home/gradqkpp/...')
+#2 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 2
+[12-Dec-2023 11:30:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gradqkpp/deevouge.com/poll/createpoll.php:3
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/createpoll.php(3): mysqli_connect()
+#1 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 3
+[12-Dec-2023 11:30:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'gradqkpp_james'@'localhost' (using password: YES) in /home/gradqkpp/deevouge.com/poll/config.php:2
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/config.php(2): mysqli_connect()
+#1 /home/gradqkpp/deevouge.com/poll/index.php(529): require('/home/gradqkpp/...')
+#2 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 2
+[12-Dec-2023 12:12:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'gradqkpp_james'@'localhost' (using password: YES) in /home/gradqkpp/deevouge.com/poll/config.php:2
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/config.php(2): mysqli_connect()
+#1 /home/gradqkpp/deevouge.com/poll/index.php(529): require('/home/gradqkpp/...')
+#2 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 2
+[12-Dec-2023 12:12:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gradqkpp/deevouge.com/poll/createpoll.php:3
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/createpoll.php(3): mysqli_connect()
+#1 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 3
+[12-Dec-2023 12:14:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gradqkpp/deevouge.com/poll/createpoll.php:3
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/createpoll.php(3): mysqli_connect()
+#1 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 3
+[12-Dec-2023 12:14:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'gradqkpp_james'@'localhost' (using password: YES) in /home/gradqkpp/deevouge.com/poll/config.php:2
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/config.php(2): mysqli_connect()
+#1 /home/gradqkpp/deevouge.com/poll/index.php(529): require('/home/gradqkpp/...')
+#2 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 2
+[12-Dec-2023 12:14:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'gradqkpp_james'@'localhost' (using password: YES) in /home/gradqkpp/deevouge.com/poll/config.php:2
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/config.php(2): mysqli_connect()
+#1 /home/gradqkpp/deevouge.com/poll/index.php(529): require('/home/gradqkpp/...')
+#2 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 2
+[12-Dec-2023 12:14:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gradqkpp/deevouge.com/poll/createpoll.php:3
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/createpoll.php(3): mysqli_connect()
+#1 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 3
+[12-Dec-2023 12:14:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gradqkpp/deevouge.com/poll/createpoll.php:3
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/createpoll.php(3): mysqli_connect()
+#1 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 3
+[12-Dec-2023 12:15:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gradqkpp/deevouge.com/poll/createpoll.php:3
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/createpoll.php(3): mysqli_connect()
+#1 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 3
+[12-Dec-2023 12:15:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'gradqkpp_james'@'localhost' (using password: YES) in /home/gradqkpp/deevouge.com/poll/config.php:2
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/config.php(2): mysqli_connect()
+#1 /home/gradqkpp/deevouge.com/poll/index.php(529): require('/home/gradqkpp/...')
+#2 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 2
+[12-Dec-2023 12:15:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'gradqkpp_james'@'localhost' (using password: YES) in /home/gradqkpp/deevouge.com/poll/config.php:2
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/config.php(2): mysqli_connect()
+#1 /home/gradqkpp/deevouge.com/poll/index.php(529): require('/home/gradqkpp/...')
+#2 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 2
+[12-Dec-2023 12:16:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gradqkpp/deevouge.com/poll/createpoll.php:3
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/createpoll.php(3): mysqli_connect()
+#1 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 3
+[12-Dec-2023 12:16:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gradqkpp/deevouge.com/poll/createpoll.php:3
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/createpoll.php(3): mysqli_connect()
+#1 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 3
+[12-Dec-2023 12:16:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'gradqkpp_james'@'localhost' (using password: YES) in /home/gradqkpp/deevouge.com/poll/config.php:2
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/config.php(2): mysqli_connect()
+#1 /home/gradqkpp/deevouge.com/poll/index.php(529): require('/home/gradqkpp/...')
+#2 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 2
+[12-Dec-2023 12:16:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'gradqkpp_james'@'localhost' (using password: YES) in /home/gradqkpp/deevouge.com/poll/config.php:2
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/config.php(2): mysqli_connect()
+#1 /home/gradqkpp/deevouge.com/poll/index.php(529): require('/home/gradqkpp/...')
+#2 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 2
+[12-Dec-2023 12:16:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gradqkpp/deevouge.com/poll/createpoll.php:3
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/createpoll.php(3): mysqli_connect()
+#1 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 3
+[12-Dec-2023 12:16:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'gradqkpp_james'@'localhost' (using password: YES) in /home/gradqkpp/deevouge.com/poll/config.php:2
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/config.php(2): mysqli_connect()
+#1 /home/gradqkpp/deevouge.com/poll/index.php(529): require('/home/gradqkpp/...')
+#2 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 2
+[12-Dec-2023 12:16:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'gradqkpp_james'@'localhost' (using password: YES) in /home/gradqkpp/deevouge.com/poll/config.php:2
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/config.php(2): mysqli_connect()
+#1 /home/gradqkpp/deevouge.com/poll/index.php(529): require('/home/gradqkpp/...')
+#2 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 2
+[12-Dec-2023 12:21:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'gradqkpp_james'@'localhost' (using password: YES) in /home/gradqkpp/deevouge.com/poll/config.php:2
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/config.php(2): mysqli_connect()
+#1 /home/gradqkpp/deevouge.com/poll/index.php(529): require('/home/gradqkpp/...')
+#2 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 2
+[12-Dec-2023 12:21:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gradqkpp/deevouge.com/poll/createpoll.php:3
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/createpoll.php(3): mysqli_connect()
+#1 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 3
+[12-Dec-2023 12:21:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gradqkpp/deevouge.com/poll/createpoll.php:3
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/createpoll.php(3): mysqli_connect()
+#1 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 3
+[12-Dec-2023 12:21:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'gradqkpp_james'@'localhost' (using password: YES) in /home/gradqkpp/deevouge.com/poll/config.php:2
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/config.php(2): mysqli_connect()
+#1 /home/gradqkpp/deevouge.com/poll/index.php(529): require('/home/gradqkpp/...')
+#2 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 2
+[12-Dec-2023 12:22:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'gradqkpp_james'@'localhost' (using password: YES) in /home/gradqkpp/deevouge.com/poll/config.php:2
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/config.php(2): mysqli_connect()
+#1 /home/gradqkpp/deevouge.com/poll/index.php(529): require('/home/gradqkpp/...')
+#2 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 2
+[12-Dec-2023 12:27:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'gradqkpp_james'@'localhost' (using password: YES) in /home/gradqkpp/deevouge.com/poll/config.php:2
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/config.php(2): mysqli_connect()
+#1 /home/gradqkpp/deevouge.com/poll/index.php(529): require('/home/gradqkpp/...')
+#2 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 2
+[12-Dec-2023 12:27:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gradqkpp/deevouge.com/poll/createpoll.php:3
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/createpoll.php(3): mysqli_connect()
+#1 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 3
+[12-Dec-2023 12:27:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gradqkpp/deevouge.com/poll/createpoll.php:3
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/createpoll.php(3): mysqli_connect()
+#1 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 3
+[12-Dec-2023 12:28:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'gradqkpp_james'@'localhost' (using password: YES) in /home/gradqkpp/deevouge.com/poll/config.php:2
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/config.php(2): mysqli_connect()
+#1 /home/gradqkpp/deevouge.com/poll/index.php(529): require('/home/gradqkpp/...')
+#2 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 2
+[12-Dec-2023 12:28:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'gradqkpp_james'@'localhost' (using password: YES) in /home/gradqkpp/deevouge.com/poll/config.php:2
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/config.php(2): mysqli_connect()
+#1 /home/gradqkpp/deevouge.com/poll/index.php(529): require('/home/gradqkpp/...')
+#2 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 2
+[12-Dec-2023 12:28:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'gradqkpp_james'@'localhost' (using password: YES) in /home/gradqkpp/deevouge.com/poll/config.php:2
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/config.php(2): mysqli_connect()
+#1 /home/gradqkpp/deevouge.com/poll/index.php(529): require('/home/gradqkpp/...')
+#2 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 2
+[12-Dec-2023 12:28:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gradqkpp/deevouge.com/poll/createpoll.php:3
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/createpoll.php(3): mysqli_connect()
+#1 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 3
+[12-Dec-2023 12:28:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'gradqkpp_james'@'localhost' (using password: YES) in /home/gradqkpp/deevouge.com/poll/config.php:2
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/config.php(2): mysqli_connect()
+#1 /home/gradqkpp/deevouge.com/poll/index.php(529): require('/home/gradqkpp/...')
+#2 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 2
+[12-Dec-2023 12:32:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'gradqkpp_james'@'localhost' (using password: YES) in /home/gradqkpp/deevouge.com/poll/config.php:2
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/config.php(2): mysqli_connect()
+#1 /home/gradqkpp/deevouge.com/poll/index.php(529): require('/home/gradqkpp/...')
+#2 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 2
+[12-Dec-2023 12:32:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'gradqkpp_james'@'localhost' (using password: YES) in /home/gradqkpp/deevouge.com/poll/config.php:2
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/config.php(2): mysqli_connect()
+#1 /home/gradqkpp/deevouge.com/poll/index.php(529): require('/home/gradqkpp/...')
+#2 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 2
+[12-Dec-2023 12:32:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gradqkpp/deevouge.com/poll/createpoll.php:3
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/createpoll.php(3): mysqli_connect()
+#1 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 3
+[12-Dec-2023 12:32:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'gradqkpp_james'@'localhost' (using password: YES) in /home/gradqkpp/deevouge.com/poll/config.php:2
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/config.php(2): mysqli_connect()
+#1 /home/gradqkpp/deevouge.com/poll/index.php(529): require('/home/gradqkpp/...')
+#2 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 2
+[12-Dec-2023 12:32:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gradqkpp/deevouge.com/poll/createpoll.php:3
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/createpoll.php(3): mysqli_connect()
+#1 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 3
+[12-Dec-2023 12:32:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gradqkpp/deevouge.com/poll/createpoll.php:3
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/createpoll.php(3): mysqli_connect()
+#1 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 3
+[12-Dec-2023 12:32:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'gradqkpp_james'@'localhost' (using password: YES) in /home/gradqkpp/deevouge.com/poll/config.php:2
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/config.php(2): mysqli_connect()
+#1 /home/gradqkpp/deevouge.com/poll/index.php(529): require('/home/gradqkpp/...')
+#2 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 2
+[12-Dec-2023 12:33:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'gradqkpp_james'@'localhost' (using password: YES) in /home/gradqkpp/deevouge.com/poll/config.php:2
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/config.php(2): mysqli_connect()
+#1 /home/gradqkpp/deevouge.com/poll/index.php(529): require('/home/gradqkpp/...')
+#2 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 2
+[12-Dec-2023 12:43:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'gradqkpp_james'@'localhost' (using password: YES) in /home/gradqkpp/deevouge.com/poll/config.php:2
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/config.php(2): mysqli_connect()
+#1 /home/gradqkpp/deevouge.com/poll/index.php(529): require('/home/gradqkpp/...')
+#2 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 2
+[12-Dec-2023 12:43:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gradqkpp/deevouge.com/poll/createpoll.php:3
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/createpoll.php(3): mysqli_connect()
+#1 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 3
+[13-Dec-2023 09:20:17 UTC] PHP Warning:  Undefined array key "uid" in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 5
+[13-Dec-2023 09:20:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 68
+[13-Dec-2023 09:20:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 73
+[13-Dec-2023 09:20:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 85
+[13-Dec-2023 09:20:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 110
+[13-Dec-2023 09:20:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 115
+[13-Dec-2023 09:20:32 UTC] PHP Warning:  Undefined array key "uid" in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 5
+[13-Dec-2023 09:20:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 68
+[13-Dec-2023 09:20:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 73
+[13-Dec-2023 09:20:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 85
+[13-Dec-2023 09:20:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 110
+[13-Dec-2023 09:20:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 115
+[13-Dec-2023 09:20:45 UTC] PHP Warning:  Undefined array key "uid" in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 5
+[13-Dec-2023 09:20:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 68
+[13-Dec-2023 09:20:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 73
+[13-Dec-2023 09:20:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 85
+[13-Dec-2023 09:20:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 110
+[13-Dec-2023 09:20:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 115
+[13-Dec-2023 09:21:23 UTC] PHP Warning:  Undefined array key "uid" in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 5
+[13-Dec-2023 09:21:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 68
+[13-Dec-2023 09:21:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 73
+[13-Dec-2023 09:21:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 85
+[13-Dec-2023 09:21:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 110
+[13-Dec-2023 09:21:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 115
+[13-Dec-2023 09:25:02 UTC] PHP Warning:  Undefined array key "uid" in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 5
+[13-Dec-2023 09:25:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 68
+[13-Dec-2023 09:25:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 73
+[13-Dec-2023 09:25:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 85
+[13-Dec-2023 09:25:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 110
+[13-Dec-2023 09:25:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 115
+[13-Dec-2023 09:29:50 UTC] PHP Warning:  Undefined array key "uid" in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 5
+[13-Dec-2023 09:29:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 68
+[13-Dec-2023 09:29:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 73
+[13-Dec-2023 09:29:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 85
+[13-Dec-2023 09:29:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 110
+[13-Dec-2023 09:29:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 115
+[13-Dec-2023 09:30:01 UTC] PHP Warning:  Undefined array key "uid" in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 5
+[13-Dec-2023 09:30:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 68
+[13-Dec-2023 09:30:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 73
+[13-Dec-2023 09:30:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 85
+[13-Dec-2023 09:30:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 110
+[13-Dec-2023 09:30:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 115
+[13-Dec-2023 09:31:00 UTC] PHP Warning:  Undefined array key "uid" in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 5
+[13-Dec-2023 09:31:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 68
+[13-Dec-2023 09:31:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 73
+[13-Dec-2023 09:31:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 85
+[13-Dec-2023 09:31:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 110
+[13-Dec-2023 09:31:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 115
+[13-Dec-2023 09:34:30 UTC] PHP Warning:  Undefined array key "uid" in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 5
+[13-Dec-2023 09:34:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 68
+[13-Dec-2023 09:34:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 73
+[13-Dec-2023 09:34:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 85
+[13-Dec-2023 09:34:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 110
+[13-Dec-2023 09:34:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 115
+[13-Dec-2023 09:37:26 UTC] PHP Warning:  Undefined array key "uid" in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 5
+[13-Dec-2023 09:37:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 68
+[13-Dec-2023 09:37:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 73
+[13-Dec-2023 09:37:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 85
+[13-Dec-2023 09:37:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 110
+[13-Dec-2023 09:37:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 115
+[13-Dec-2023 09:45:42 UTC] PHP Warning:  Undefined array key "uid" in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 5
+[13-Dec-2023 09:45:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 68
+[13-Dec-2023 09:45:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 73
+[13-Dec-2023 09:45:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 85
+[13-Dec-2023 09:45:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 110
+[13-Dec-2023 09:45:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 115
+[13-Dec-2023 09:56:26 UTC] PHP Warning:  Undefined array key "uid" in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 5
+[13-Dec-2023 09:56:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 68
+[13-Dec-2023 09:56:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 73
+[13-Dec-2023 09:56:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 85
+[13-Dec-2023 09:56:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 110
+[13-Dec-2023 09:56:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 115
+[13-Dec-2023 10:02:42 UTC] PHP Warning:  Undefined array key "uid" in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 5
+[13-Dec-2023 10:02:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 68
+[13-Dec-2023 10:02:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 73
+[13-Dec-2023 10:02:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 85
+[13-Dec-2023 10:02:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 110
+[13-Dec-2023 10:02:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 115
+[13-Dec-2023 10:25:14 UTC] PHP Warning:  Undefined array key "uid" in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 5
+[13-Dec-2023 10:25:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 68
+[13-Dec-2023 10:25:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 73
+[13-Dec-2023 10:25:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 85
+[13-Dec-2023 10:25:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 110
+[13-Dec-2023 10:25:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 115
+[13-Dec-2023 10:29:21 UTC] PHP Warning:  Undefined array key "uid" in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 5
+[13-Dec-2023 10:29:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 68
+[13-Dec-2023 10:29:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 73
+[13-Dec-2023 10:29:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 85
+[13-Dec-2023 10:29:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 110
+[13-Dec-2023 10:29:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 115
+[13-Dec-2023 10:48:53 UTC] PHP Warning:  Undefined array key "uid" in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 5
+[13-Dec-2023 10:48:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 68
+[13-Dec-2023 10:48:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 73
+[13-Dec-2023 10:48:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 85
+[13-Dec-2023 10:48:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 110
+[13-Dec-2023 10:48:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 115
+[14-Dec-2023 06:11:01 UTC] PHP Warning:  Undefined array key "uid" in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 5
+[14-Dec-2023 06:11:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 68
+[14-Dec-2023 06:11:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 73
+[14-Dec-2023 06:11:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 85
+[14-Dec-2023 06:11:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 110
+[14-Dec-2023 06:11:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 115
+[14-Dec-2023 06:11:02 UTC] PHP Warning:  Undefined array key "uid" in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 5
+[14-Dec-2023 06:11:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 68
+[14-Dec-2023 06:11:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 73
+[14-Dec-2023 06:11:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 85
+[14-Dec-2023 06:11:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 110
+[14-Dec-2023 06:11:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 115
+[14-Dec-2023 12:00:08 UTC] PHP Warning:  Undefined array key "uid" in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 5
+[14-Dec-2023 12:00:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 68
+[14-Dec-2023 12:00:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 73
+[14-Dec-2023 12:00:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 85
+[14-Dec-2023 12:00:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 110
+[14-Dec-2023 12:00:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 115
+[14-Dec-2023 12:20:12 UTC] PHP Warning:  Undefined array key "uid" in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 5
+[14-Dec-2023 12:20:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 68
+[14-Dec-2023 12:20:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 73
+[14-Dec-2023 12:20:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 85
+[14-Dec-2023 12:20:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 110
+[14-Dec-2023 12:20:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 115
+[14-Dec-2023 12:29:18 UTC] PHP Warning:  Undefined array key "uid" in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 5
+[14-Dec-2023 12:29:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 68
+[14-Dec-2023 12:29:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 73
+[14-Dec-2023 12:29:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 85
+[14-Dec-2023 12:29:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 110
+[14-Dec-2023 12:29:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 115
+[14-Dec-2023 12:33:18 UTC] PHP Warning:  Undefined array key "uid" in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 5
+[14-Dec-2023 12:33:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 68
+[14-Dec-2023 12:33:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 73
+[14-Dec-2023 12:33:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 85
+[14-Dec-2023 12:33:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 110
+[14-Dec-2023 12:33:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 114
+[14-Dec-2023 12:33:54 UTC] PHP Warning:  Undefined array key "uid" in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 5
+[14-Dec-2023 12:33:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 68
+[14-Dec-2023 12:33:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 73
+[14-Dec-2023 12:33:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 85
+[14-Dec-2023 12:33:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 110
+[14-Dec-2023 12:33:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 114
+[14-Dec-2023 12:34:19 UTC] PHP Warning:  Undefined array key "uid" in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 5
+[14-Dec-2023 12:34:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 68
+[14-Dec-2023 12:34:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 73
+[14-Dec-2023 12:34:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 85
+[14-Dec-2023 12:34:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 110
+[14-Dec-2023 12:34:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 114
+[14-Dec-2023 12:35:55 UTC] PHP Warning:  Undefined array key "uid" in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 5
+[14-Dec-2023 12:35:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 68
+[14-Dec-2023 12:35:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 73
+[14-Dec-2023 12:35:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 85
+[14-Dec-2023 12:35:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 110
+[14-Dec-2023 12:35:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 114
+[14-Dec-2023 12:38:42 UTC] PHP Warning:  Undefined array key "uid" in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 5
+[14-Dec-2023 12:38:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 68
+[14-Dec-2023 12:38:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 73
+[14-Dec-2023 12:38:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 85
+[14-Dec-2023 12:38:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 110
+[14-Dec-2023 12:38:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 114
+[15-Dec-2023 09:12:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gradqkpp/deevouge.com/poll/createpoll.php:3
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/createpoll.php(3): mysqli_connect()
+#1 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 3
+[15-Dec-2023 09:12:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gradqkpp/deevouge.com/poll/createpoll.php:3
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/createpoll.php(3): mysqli_connect()
+#1 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 3
+[15-Dec-2023 09:23:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gradqkpp/deevouge.com/poll/createpoll.php:3
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/createpoll.php(3): mysqli_connect()
+#1 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 3
+[15-Dec-2023 09:23:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gradqkpp/deevouge.com/poll/createpoll.php:3
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/createpoll.php(3): mysqli_connect()
+#1 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 3
+[15-Dec-2023 10:27:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gradqkpp/deevouge.com/poll/createpoll.php:3
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/createpoll.php(3): mysqli_connect()
+#1 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 3
+[15-Dec-2023 10:31:58 UTC] PHP Warning:  Undefined array key "uid" in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 5
+[15-Dec-2023 10:31:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 68
+[15-Dec-2023 10:31:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 73
+[15-Dec-2023 10:31:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 85
+[15-Dec-2023 10:31:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 110
+[15-Dec-2023 10:31:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 114
+[15-Dec-2023 10:53:01 UTC] PHP Warning:  Undefined array key "uid" in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 5
+[15-Dec-2023 10:53:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 68
+[15-Dec-2023 10:53:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 73
+[15-Dec-2023 10:53:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 85
+[15-Dec-2023 10:53:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 110
+[15-Dec-2023 10:53:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 114
+[15-Dec-2023 10:55:03 UTC] PHP Warning:  Undefined array key "uid" in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 5
+[15-Dec-2023 10:55:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 68
+[15-Dec-2023 10:55:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 73
+[15-Dec-2023 10:55:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 85
+[15-Dec-2023 10:55:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 110
+[15-Dec-2023 10:55:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 114
+[15-Dec-2023 11:01:08 UTC] PHP Warning:  Undefined array key "uid" in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 5
+[15-Dec-2023 11:01:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 68
+[15-Dec-2023 11:01:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 73
+[15-Dec-2023 11:01:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 85
+[15-Dec-2023 11:01:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 110
+[15-Dec-2023 11:01:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 114
+[15-Dec-2023 11:32:10 UTC] PHP Warning:  Undefined array key "uid" in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 5
+[15-Dec-2023 11:32:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 68
+[15-Dec-2023 11:32:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 73
+[15-Dec-2023 11:32:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 85
+[15-Dec-2023 11:32:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 110
+[15-Dec-2023 11:32:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 114
+[15-Dec-2023 11:32:18 UTC] PHP Warning:  Undefined array key "uid" in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 5
+[15-Dec-2023 11:32:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 68
+[15-Dec-2023 11:32:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 73
+[15-Dec-2023 11:32:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 85
+[15-Dec-2023 11:32:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 110
+[15-Dec-2023 11:32:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 114
+[15-Dec-2023 11:36:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 68
+[15-Dec-2023 11:36:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 73
+[15-Dec-2023 11:36:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 85
+[15-Dec-2023 11:36:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 110
+[15-Dec-2023 11:36:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 114
+[15-Dec-2023 11:36:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 68
+[15-Dec-2023 11:36:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 73
+[15-Dec-2023 11:36:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 85
+[15-Dec-2023 11:36:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 110
+[15-Dec-2023 11:36:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 114
+[15-Dec-2023 11:36:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 68
+[15-Dec-2023 11:36:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 73
+[15-Dec-2023 11:36:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 85
+[15-Dec-2023 11:36:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 110
+[15-Dec-2023 11:36:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 114
+[15-Dec-2023 11:36:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 68
+[15-Dec-2023 11:36:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 73
+[15-Dec-2023 11:36:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 85
+[15-Dec-2023 11:36:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 110
+[15-Dec-2023 11:36:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 114
+[15-Dec-2023 11:43:40 UTC] PHP Warning:  Undefined array key "uid" in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 5
+[15-Dec-2023 11:43:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 68
+[15-Dec-2023 11:43:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 73
+[15-Dec-2023 11:43:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 85
+[15-Dec-2023 11:43:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 110
+[15-Dec-2023 11:43:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 114
+[15-Dec-2023 11:43:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 68
+[15-Dec-2023 11:43:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 73
+[15-Dec-2023 11:43:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 85
+[15-Dec-2023 11:43:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 110
+[15-Dec-2023 11:43:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 114
+[16-Dec-2023 06:24:07 UTC] PHP Warning:  Undefined array key "uid" in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 5
+[16-Dec-2023 06:24:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 68
+[16-Dec-2023 06:24:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 73
+[16-Dec-2023 06:24:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 85
+[16-Dec-2023 06:24:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 110
+[16-Dec-2023 06:24:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 114
+[16-Dec-2023 06:24:39 UTC] PHP Warning:  Undefined array key "uid" in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 5
+[16-Dec-2023 06:24:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 68
+[16-Dec-2023 06:24:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 73
+[16-Dec-2023 06:24:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 85
+[16-Dec-2023 06:24:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 110
+[16-Dec-2023 06:24:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 114
+[16-Dec-2023 06:55:38 UTC] PHP Warning:  Undefined array key "uid" in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 5
+[16-Dec-2023 06:55:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 68
+[16-Dec-2023 06:55:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 73
+[16-Dec-2023 06:55:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 85
+[16-Dec-2023 06:55:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 110
+[16-Dec-2023 06:55:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 114
+[16-Dec-2023 07:25:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gradqkpp/deevouge.com/poll/createpoll.php:3
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/createpoll.php(3): mysqli_connect()
+#1 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 3
+[16-Dec-2023 07:25:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gradqkpp/deevouge.com/poll/createpoll.php:3
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/createpoll.php(3): mysqli_connect()
+#1 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 3
+[16-Dec-2023 07:25:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/gradqkpp/deevouge.com/poll/createpoll.php:3
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/createpoll.php(3): mysqli_connect()
+#1 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 3
+[16-Dec-2023 11:27:57 UTC] PHP Warning:  Undefined array key "uid" in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 5
+[16-Dec-2023 11:27:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 68
+[16-Dec-2023 11:27:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 73
+[16-Dec-2023 11:27:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 85
+[16-Dec-2023 11:27:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 110
+[16-Dec-2023 11:27:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 114
+[16-Dec-2023 11:31:35 UTC] PHP Warning:  Undefined array key "uid" in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 5
+[16-Dec-2023 11:31:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 68
+[16-Dec-2023 11:31:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 73
+[16-Dec-2023 11:31:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 85
+[16-Dec-2023 11:31:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 110
+[16-Dec-2023 11:31:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 114
+[16-Dec-2023 11:33:20 UTC] PHP Warning:  Undefined array key "uid" in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 5
+[16-Dec-2023 11:33:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 68
+[16-Dec-2023 11:33:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 73
+[16-Dec-2023 11:33:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 85
+[16-Dec-2023 11:33:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 110
+[16-Dec-2023 11:33:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 114
+[16-Dec-2023 11:50:12 UTC] PHP Warning:  Undefined array key "uid" in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 5
+[16-Dec-2023 11:50:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 68
+[16-Dec-2023 11:50:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 73
+[16-Dec-2023 11:50:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 85
+[16-Dec-2023 11:50:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 110
+[16-Dec-2023 11:50:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 114
+[16-Dec-2023 11:50:57 UTC] PHP Warning:  Undefined array key "uid" in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 5
+[16-Dec-2023 11:50:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 68
+[16-Dec-2023 11:50:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 73
+[16-Dec-2023 11:50:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 85
+[16-Dec-2023 11:50:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 110
+[16-Dec-2023 11:50:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 114
+[18-Dec-2023 07:05:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 233
+[18-Dec-2023 07:10:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:115) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 244
+[18-Dec-2023 07:12:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:115) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 244
+[18-Dec-2023 07:12:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:115) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 244
+[18-Dec-2023 07:12:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:115) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 244
+[18-Dec-2023 07:13:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:115) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 244
+[18-Dec-2023 07:17:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:115) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 244
+[18-Dec-2023 07:17:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:115) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 244
+[18-Dec-2023 07:18:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:115) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 244
+[18-Dec-2023 07:19:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:115) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 268
+[18-Dec-2023 07:21:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:115) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 268
+[18-Dec-2023 07:24:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:115) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 291
+[18-Dec-2023 07:25:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:115) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 338
+[18-Dec-2023 07:25:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:115) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 338
+[18-Dec-2023 07:25:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:115) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 338
+[18-Dec-2023 07:27:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:115) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 338
+[18-Dec-2023 07:28:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:115) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 338
+[18-Dec-2023 07:31:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:115) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 311
+[18-Dec-2023 07:33:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:115) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 340
+[18-Dec-2023 07:36:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:115) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 340
+[18-Dec-2023 07:36:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:115) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 340
+[18-Dec-2023 07:39:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 341
+[18-Dec-2023 07:40:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 341
+[18-Dec-2023 07:44:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 337
+[18-Dec-2023 07:46:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 338
+[18-Dec-2023 07:46:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 338
+[18-Dec-2023 07:48:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 314
+[18-Dec-2023 07:49:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 339
+[18-Dec-2023 07:50:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 315
+[18-Dec-2023 07:52:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 340
+[18-Dec-2023 07:52:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 340
+[18-Dec-2023 07:53:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 317
+[18-Dec-2023 07:53:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 347
+[18-Dec-2023 07:59:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 345
+[18-Dec-2023 07:59:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 345
+[18-Dec-2023 08:00:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 315
+[18-Dec-2023 08:00:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 315
+[18-Dec-2023 08:02:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 346
+[18-Dec-2023 08:03:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 346
+[18-Dec-2023 08:03:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 346
+[18-Dec-2023 08:04:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 346
+[18-Dec-2023 08:04:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 346
+[18-Dec-2023 08:05:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 346
+[18-Dec-2023 08:07:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:84) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 321
+[18-Dec-2023 08:07:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:84) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 321
+[18-Dec-2023 08:08:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:84) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 321
+[18-Dec-2023 08:08:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:84) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 321
+[18-Dec-2023 08:08:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:84) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 321
+[18-Dec-2023 08:09:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:84) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 321
+[18-Dec-2023 08:09:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:84) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 346
+[18-Dec-2023 08:10:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:84) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 346
+[18-Dec-2023 08:10:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:84) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 346
+[18-Dec-2023 08:10:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:84) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 318
+[18-Dec-2023 08:11:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:84) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 348
+[18-Dec-2023 08:12:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:84) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 348
+[18-Dec-2023 08:13:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:84) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 348
+[18-Dec-2023 08:15:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:84) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 348
+[18-Dec-2023 08:17:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:84) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 348
+[18-Dec-2023 08:17:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:84) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 348
+[18-Dec-2023 08:17:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:84) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 348
+[18-Dec-2023 08:17:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:84) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 348
+[18-Dec-2023 08:18:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:84) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 348
+[18-Dec-2023 08:20:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:84) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 320
+[18-Dec-2023 08:20:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:84) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 320
+[18-Dec-2023 08:20:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:84) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 320
+[18-Dec-2023 08:21:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:84) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 320
+[18-Dec-2023 08:21:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:84) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 08:22:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:84) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 08:22:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:84) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 08:22:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:84) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 08:23:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:84) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 08:23:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:84) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 08:24:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:84) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 08:24:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:84) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 08:25:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 08:25:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 08:25:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 08:25:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 08:26:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's standard dummy text ever since the 1500s, when an unknown printer took a ga...' at line 1 in /home/gradqkpp/deevouge.com/poll/editingpoll.php:300
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/editingpoll.php(300): mysqli_query()
+#1 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 300
+[18-Dec-2023 08:26:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's standard dummy text ever since the 1500s, when an unknown printer took a ga...' at line 1 in /home/gradqkpp/deevouge.com/poll/editingpoll.php:300
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/editingpoll.php(300): mysqli_query()
+#1 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 300
+[18-Dec-2023 08:27:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's standard dummy text ever since the 1500s, when an unknown printer took a ga...' at line 1 in /home/gradqkpp/deevouge.com/poll/editingpoll.php:300
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/editingpoll.php(300): mysqli_query()
+#1 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 300
+[18-Dec-2023 08:27:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's standard dummy text ever since the 1500s, when an unknown printer took a ga...' at line 1 in /home/gradqkpp/deevouge.com/poll/editingpoll.php:300
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/editingpoll.php(300): mysqli_query()
+#1 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 300
+[18-Dec-2023 08:27:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 08:28:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:84) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 239
+[18-Dec-2023 08:29:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:84) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 239
+[18-Dec-2023 08:29:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:84) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 239
+[18-Dec-2023 08:29:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:84) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 239
+[18-Dec-2023 08:29:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:84) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 239
+[18-Dec-2023 08:30:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:84) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 239
+[18-Dec-2023 08:30:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:84) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 280
+[18-Dec-2023 08:31:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:84) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 08:31:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:84) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 08:31:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 08:32:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 08:33:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 08:34:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 08:34:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 09:02:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 09:02:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 09:04:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 09:05:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 09:06:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 09:06:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 09:06:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 09:10:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 09:10:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 09:13:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 09:14:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 09:14:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 09:14:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 09:14:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 09:14:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 09:15:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 09:15:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 09:15:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 09:15:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 09:15:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'aaaaaaaaaaa', description = 'gggggggggggggggg', start_date_time = '2023-12-16...' at line 1 in /home/gradqkpp/deevouge.com/poll/editingpoll.php:300
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/editingpoll.php(300): mysqli_query()
+#1 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 300
+[18-Dec-2023 09:19:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 09:19:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 09:19:22 UTC] PHP Warning:  Undefined array key "answer_options" in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 294
+[18-Dec-2023 09:19:22 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/gradqkpp/deevouge.com/poll/editingpoll.php:294
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 294
+[18-Dec-2023 09:19:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 09:19:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 09:22:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 09:22:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 09:22:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 09:24:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 09:24:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 09:24:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 09:25:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 09:30:53 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 285
+[18-Dec-2023 09:30:58 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 285
+[18-Dec-2023 09:30:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 307
+[18-Dec-2023 09:31:01 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 285
+[18-Dec-2023 09:31:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 307
+[18-Dec-2023 09:33:11 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 285
+[18-Dec-2023 09:33:14 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 285
+[18-Dec-2023 09:33:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 307
+[18-Dec-2023 09:33:25 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 285
+[18-Dec-2023 09:33:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 307
+[18-Dec-2023 09:33:28 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 285
+[18-Dec-2023 09:33:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 307
+[18-Dec-2023 09:36:19 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 285
+[18-Dec-2023 09:36:40 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 285
+[18-Dec-2023 09:36:43 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 285
+[18-Dec-2023 09:36:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 307
+[18-Dec-2023 09:36:46 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 285
+[18-Dec-2023 09:36:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 307
+[18-Dec-2023 09:36:49 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 285
+[18-Dec-2023 09:36:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 307
+[18-Dec-2023 09:38:28 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 285
+[18-Dec-2023 09:39:47 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 328
+[18-Dec-2023 09:39:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 350
+[18-Dec-2023 09:40:14 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 328
+[18-Dec-2023 09:40:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 350
+[18-Dec-2023 09:41:07 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 302
+[18-Dec-2023 09:41:08 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 302
+[18-Dec-2023 09:41:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:84) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 324
+[18-Dec-2023 09:41:45 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 302
+[18-Dec-2023 09:42:28 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 328
+[18-Dec-2023 09:42:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:98) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 350
+[18-Dec-2023 09:42:31 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 328
+[18-Dec-2023 09:42:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:98) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 350
+[18-Dec-2023 09:42:42 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 328
+[18-Dec-2023 09:42:50 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 328
+[18-Dec-2023 09:42:57 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 328
+[18-Dec-2023 09:42:57 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 328
+[18-Dec-2023 09:42:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 350
+[18-Dec-2023 09:43:17 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 328
+[18-Dec-2023 09:43:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 350
+[18-Dec-2023 09:44:50 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 328
+[18-Dec-2023 09:55:29 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 328
+[18-Dec-2023 09:55:37 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 328
+[18-Dec-2023 09:55:52 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 328
+[18-Dec-2023 09:55:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:98) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 350
+[18-Dec-2023 09:55:54 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 328
+[18-Dec-2023 09:55:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:98) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 350
+[18-Dec-2023 09:56:36 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 370
+[18-Dec-2023 09:56:44 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 370
+[18-Dec-2023 09:58:06 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 331
+[18-Dec-2023 09:58:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:98) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 353
+[18-Dec-2023 09:58:15 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 331
+[18-Dec-2023 09:58:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:98) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 353
+[18-Dec-2023 09:59:21 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 09:59:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:98) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 328
+[18-Dec-2023 09:59:39 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 09:59:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:98) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 328
+[18-Dec-2023 10:00:12 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 10:01:07 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 10:01:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 328
+[18-Dec-2023 10:01:10 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 10:01:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 328
+[18-Dec-2023 10:03:15 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 10:03:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 328
+[18-Dec-2023 10:06:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:82) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 159
+[18-Dec-2023 10:07:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:82) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 159
+[18-Dec-2023 10:07:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:82) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 159
+[18-Dec-2023 10:07:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:82) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 159
+[18-Dec-2023 10:08:54 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 10:08:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 328
+[18-Dec-2023 10:26:01 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 10:26:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 328
+[18-Dec-2023 10:41:34 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 10:41:55 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 10:41:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 328
+[18-Dec-2023 10:42:20 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 10:42:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gradqkpp/deevouge.com/poll/editingpoll.php:116) in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 328
+[18-Dec-2023 10:42:23 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 10:45:06 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 10:49:30 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 10:52:14 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 10:52:35 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 10:58:19 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 11:03:19 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 11:03:24 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 11:03:34 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 11:03:49 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 11:03:56 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 11:04:12 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 11:04:52 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 11:05:05 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 11:06:49 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 11:07:07 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 11:08:00 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 11:08:48 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 11:09:07 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 11:10:42 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 11:10:52 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 11:10:58 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 11:11:37 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 11:11:41 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 11:20:12 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 11:20:45 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 11:33:49 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 11:33:52 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 11:35:12 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 11:36:03 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 11:36:17 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[18-Dec-2023 12:30:09 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[19-Dec-2023 06:06:42 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[19-Dec-2023 06:06:56 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[19-Dec-2023 06:07:04 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[19-Dec-2023 06:07:23 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[19-Dec-2023 06:07:30 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[19-Dec-2023 06:08:02 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[19-Dec-2023 06:08:25 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[19-Dec-2023 06:16:58 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[19-Dec-2023 06:17:09 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[19-Dec-2023 08:10:29 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[19-Dec-2023 08:11:02 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[20-Dec-2023 06:15:21 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[20-Dec-2023 06:20:05 UTC] PHP Fatal error:  Uncaught Error: Class "Redis" not found in /home/gradqkpp/deevouge.com/poll/config.php:20
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/index.php(3): require()
+#1 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 20
+[20-Dec-2023 06:20:09 UTC] PHP Fatal error:  Uncaught Error: Class "Redis" not found in /home/gradqkpp/deevouge.com/poll/config.php:20
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/index.php(3): require()
+#1 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 20
+[20-Dec-2023 06:20:15 UTC] PHP Fatal error:  Uncaught Error: Class "Redis" not found in /home/gradqkpp/deevouge.com/poll/config.php:20
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/index.php(3): require()
+#1 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 20
+[20-Dec-2023 06:20:17 UTC] PHP Fatal error:  Uncaught Error: Class "Redis" not found in /home/gradqkpp/deevouge.com/poll/config.php:20
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/index.php(3): require()
+#1 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 20
+[20-Dec-2023 06:20:33 UTC] PHP Fatal error:  Uncaught Error: Class "Redis" not found in /home/gradqkpp/deevouge.com/poll/config.php:20
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/createpoll.php(3): require()
+#1 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 20
+[20-Dec-2023 06:27:45 UTC] PHP Fatal error:  Uncaught Error: Class "Redis" not found in /home/gradqkpp/deevouge.com/poll/config.php:8
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/index.php(3): require()
+#1 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 8
+[20-Dec-2023 07:04:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gradqkpp_pol.your_table' doesn't exist in /home/gradqkpp/deevouge.com/poll/config.php:29
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/config.php(29): mysqli->query()
+#1 /home/gradqkpp/deevouge.com/poll/index.php(3): require('/home/gradqkpp/...')
+#2 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/config.php on line 29
+[20-Dec-2023 07:05:25 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gradqkpp/deevouge.com/poll/editingpoll.php on line 306
+[21-Dec-2023 13:51:18 UTC] PHP Parse error:  Unclosed '{' on line 9 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 451
+[21-Dec-2023 13:51:21 UTC] PHP Parse error:  Unclosed '{' on line 9 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 451
+[21-Dec-2023 13:51:23 UTC] PHP Parse error:  Unclosed '{' on line 9 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 451
+[21-Dec-2023 13:51:24 UTC] PHP Parse error:  Unclosed '{' on line 9 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 451
+[21-Dec-2023 13:51:26 UTC] PHP Parse error:  Unclosed '{' on line 9 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 451
+[21-Dec-2023 13:51:29 UTC] PHP Parse error:  Unclosed '{' on line 9 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 451
+[21-Dec-2023 13:54:06 UTC] PHP Parse error:  Unclosed '{' on line 9 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 452
+[21-Dec-2023 13:54:13 UTC] PHP Parse error:  Unclosed '{' on line 9 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 452
+[21-Dec-2023 13:54:41 UTC] PHP Parse error:  Unclosed '{' on line 9 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 452
+[21-Dec-2023 13:54:43 UTC] PHP Parse error:  Unclosed '{' on line 9 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 452
+[21-Dec-2023 13:54:57 UTC] PHP Parse error:  Unclosed '{' on line 9 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 452
+[21-Dec-2023 13:58:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'poll' in 'field list' in /home/gradqkpp/deevouge.com/poll/createpoll.php:21
+Stack trace:
+#0 /home/gradqkpp/deevouge.com/poll/createpoll.php(21): mysqli_query()
+#1 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 21
+[21-Dec-2023 13:58:57 UTC] PHP Parse error:  Unclosed '{' on line 9 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 452
+[21-Dec-2023 13:59:01 UTC] PHP Parse error:  Unclosed '{' on line 9 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 452
+[21-Dec-2023 13:59:03 UTC] PHP Parse error:  Unclosed '{' on line 9 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 452
+[21-Dec-2023 14:01:07 UTC] PHP Parse error:  Unclosed '{' on line 9 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 452
+[21-Dec-2023 14:03:20 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Client" not found in /home/gradqkpp/deevouge.com/poll/createpoll.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 26
+[21-Dec-2023 14:05:37 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Client" not found in /home/gradqkpp/deevouge.com/poll/createpoll.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 26
+[22-Dec-2023 05:28:28 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Client" not found in /home/gradqkpp/deevouge.com/poll/createpoll.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 26
+[22-Dec-2023 05:39:11 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Client" not found in /home/gradqkpp/deevouge.com/poll/createpoll.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 26
+[22-Dec-2023 05:39:43 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Client" not found in /home/gradqkpp/deevouge.com/poll/createpoll.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 26
+[22-Dec-2023 05:40:36 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Client" not found in /home/gradqkpp/deevouge.com/poll/createpoll.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 26
+[22-Dec-2023 05:43:15 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Client" not found in /home/gradqkpp/deevouge.com/poll/createpoll.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 26
+[22-Dec-2023 05:46:02 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Client" not found in /home/gradqkpp/deevouge.com/poll/createpoll.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 26
+[22-Dec-2023 05:49:16 UTC] PHP Parse error:  syntax error, unexpected token "/" in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 21
+[22-Dec-2023 05:51:15 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Client" not found in /home/gradqkpp/deevouge.com/poll/createpoll.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 26
+[22-Dec-2023 06:00:15 UTC] PHP Parse error:  syntax error, unexpected token "/" in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 22
+[22-Dec-2023 06:00:18 UTC] PHP Parse error:  syntax error, unexpected token "/" in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 22
+[22-Dec-2023 06:20:44 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Client" not found in /home/gradqkpp/deevouge.com/poll/createpoll.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 28
+[22-Dec-2023 06:20:48 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Client" not found in /home/gradqkpp/deevouge.com/poll/createpoll.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 28
+[22-Dec-2023 06:20:59 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Client" not found in /home/gradqkpp/deevouge.com/poll/createpoll.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 28
+[22-Dec-2023 06:21:22 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Client" not found in /home/gradqkpp/deevouge.com/poll/createpoll.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 28
+[22-Dec-2023 06:21:41 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Client" not found in /home/gradqkpp/deevouge.com/poll/createpoll.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 28
+[22-Dec-2023 06:27:01 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Client" not found in /home/gradqkpp/deevouge.com/poll/createpoll.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 28
+[22-Dec-2023 06:30:51 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Client" not found in /home/gradqkpp/deevouge.com/poll/createpoll.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 28
+[22-Dec-2023 06:33:04 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Client" not found in /home/gradqkpp/deevouge.com/poll/createpoll.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 26
+[22-Dec-2023 06:35:15 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Client" not found in /home/gradqkpp/deevouge.com/poll/createpoll.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 26
+[22-Dec-2023 06:42:41 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Client" not found in /home/gradqkpp/deevouge.com/poll/createpoll.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 28
+[22-Dec-2023 06:43:21 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Client" not found in /home/gradqkpp/deevouge.com/poll/createpoll.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 28
+[22-Dec-2023 06:44:31 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Client" not found in /home/gradqkpp/deevouge.com/poll/createpoll.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 27
+[22-Dec-2023 06:45:30 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Client" not found in /home/gradqkpp/deevouge.com/poll/createpoll.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 27
+[22-Dec-2023 06:45:41 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Client" not found in /home/gradqkpp/deevouge.com/poll/createpoll.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 27
+[22-Dec-2023 06:49:57 UTC] PHP Warning:  require(path/to/Predis/Autoloader.php): Failed to open stream: No such file or directory in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 4
+[22-Dec-2023 06:49:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'path/to/Predis/Autoloader.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/gradqkpp/deevouge.com/poll/createpoll.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 4
+[22-Dec-2023 06:54:47 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Client" not found in /home/gradqkpp/deevouge.com/poll/createpoll.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 27
+[22-Dec-2023 06:55:09 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Client" not found in /home/gradqkpp/deevouge.com/poll/createpoll.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 27
+[22-Dec-2023 06:55:38 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Client" not found in /home/gradqkpp/deevouge.com/poll/createpoll.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 27
+[22-Dec-2023 07:21:37 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Client" not found in /home/gradqkpp/deevouge.com/poll/createpoll.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 39
+[22-Dec-2023 07:22:39 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Client" not found in /home/gradqkpp/deevouge.com/poll/createpoll.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 39
+[22-Dec-2023 07:23:09 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Client" not found in /home/gradqkpp/deevouge.com/poll/createpoll.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 39
+[22-Dec-2023 07:23:16 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Client" not found in /home/gradqkpp/deevouge.com/poll/createpoll.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 39
+[22-Dec-2023 07:25:57 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Client" not found in /home/gradqkpp/deevouge.com/poll/createpoll.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 39
+[22-Dec-2023 07:32:24 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Client" not found in /home/gradqkpp/deevouge.com/poll/createpoll.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 26
+[22-Dec-2023 07:32:42 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Client" not found in /home/gradqkpp/deevouge.com/poll/createpoll.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 26
+[22-Dec-2023 07:37:03 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Client" not found in /home/gradqkpp/deevouge.com/poll/createpoll.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 39
+[22-Dec-2023 07:38:18 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Client" not found in /home/gradqkpp/deevouge.com/poll/createpoll.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 26
+[22-Dec-2023 08:19:23 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Client" not found in /home/gradqkpp/deevouge.com/poll/createpoll.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 38
+[22-Dec-2023 08:22:16 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Client" not found in /home/gradqkpp/deevouge.com/poll/createpoll.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 38
+[22-Dec-2023 08:29:20 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Client" not found in /home/gradqkpp/deevouge.com/poll/createpoll.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 41
+[22-Dec-2023 08:32:38 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Client" not found in /home/gradqkpp/deevouge.com/poll/createpoll.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 28
+[22-Dec-2023 08:34:27 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Client" not found in /home/gradqkpp/deevouge.com/poll/createpoll.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 28
+[22-Dec-2023 08:36:45 UTC] PHP Warning:  Undefined variable $post_id in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 34
+[22-Dec-2023 08:36:45 UTC] PHP Warning:  Undefined variable $redis in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 40
+[22-Dec-2023 08:36:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function expire() on null in /home/gradqkpp/deevouge.com/poll/createpoll.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 40
+[22-Dec-2023 08:38:29 UTC] PHP Parse error:  syntax error, unexpected identifier "Connection" in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 7
+[22-Dec-2023 08:38:33 UTC] PHP Parse error:  syntax error, unexpected identifier "Connection" in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 7
+[22-Dec-2023 08:38:35 UTC] PHP Parse error:  syntax error, unexpected identifier "Connection" in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 7
+[22-Dec-2023 08:39:26 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Client" not found in /home/gradqkpp/deevouge.com/poll/createpoll.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 29
+[22-Dec-2023 08:42:32 UTC] PHP Warning:  require(path/to/Predis/Autoloader.php): Failed to open stream: No such file or directory in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 5
+[22-Dec-2023 08:42:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'path/to/Predis/Autoloader.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/gradqkpp/deevouge.com/poll/createpoll.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 5
+[22-Dec-2023 08:42:34 UTC] PHP Warning:  require(path/to/Predis/Autoloader.php): Failed to open stream: No such file or directory in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 5
+[22-Dec-2023 08:42:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'path/to/Predis/Autoloader.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/gradqkpp/deevouge.com/poll/createpoll.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 5
+[22-Dec-2023 09:04:38 UTC] PHP Warning:  require(path/to/Predis/Autoloader.php): Failed to open stream: No such file or directory in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 5
+[22-Dec-2023 09:04:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'path/to/Predis/Autoloader.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/gradqkpp/deevouge.com/poll/createpoll.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 5
+[22-Dec-2023 09:04:50 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Client" not found in /home/gradqkpp/deevouge.com/poll/createpoll.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 31
+[22-Dec-2023 09:05:22 UTC] PHP Warning:  require(path/to/Predis/Autoloader.php): Failed to open stream: No such file or directory in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 5
+[22-Dec-2023 09:05:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'path/to/Predis/Autoloader.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/gradqkpp/deevouge.com/poll/createpoll.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 5
+[22-Dec-2023 09:05:25 UTC] PHP Warning:  require(path/to/Predis/Autoloader.php): Failed to open stream: No such file or directory in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 5
+[22-Dec-2023 09:05:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'path/to/Predis/Autoloader.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/gradqkpp/deevouge.com/poll/createpoll.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 5
+[22-Dec-2023 09:05:27 UTC] PHP Warning:  require(path/to/Predis/Autoloader.php): Failed to open stream: No such file or directory in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 5
+[22-Dec-2023 09:05:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'path/to/Predis/Autoloader.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/gradqkpp/deevouge.com/poll/createpoll.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 5
+[22-Dec-2023 09:06:59 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Client" not found in /home/gradqkpp/deevouge.com/poll/createpoll.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 31
+[22-Dec-2023 09:08:08 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Client" not found in /home/gradqkpp/deevouge.com/poll/createpoll.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 31
+[22-Dec-2023 09:08:29 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Client" not found in /home/gradqkpp/deevouge.com/poll/createpoll.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 31
+[22-Dec-2023 09:16:45 UTC] PHP Warning:  require(predis/predis/Autoloader.php): Failed to open stream: No such file or directory in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 5
+[22-Dec-2023 09:16:45 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'predis/predis/Autoloader.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/gradqkpp/deevouge.com/poll/createpoll.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 5
+[22-Dec-2023 09:16:50 UTC] PHP Warning:  require(predis/predis/Autoloader.php): Failed to open stream: No such file or directory in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 5
+[22-Dec-2023 09:16:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'predis/predis/Autoloader.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/gradqkpp/deevouge.com/poll/createpoll.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 5
+[22-Dec-2023 09:16:52 UTC] PHP Warning:  require(predis/predis/Autoloader.php): Failed to open stream: No such file or directory in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 5
+[22-Dec-2023 09:16:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'predis/predis/Autoloader.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/gradqkpp/deevouge.com/poll/createpoll.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 5
+[22-Dec-2023 09:17:07 UTC] PHP Warning:  require(predis/predis/Autoloader.php): Failed to open stream: No such file or directory in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 5
+[22-Dec-2023 09:17:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'predis/predis/Autoloader.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/gradqkpp/deevouge.com/poll/createpoll.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 5
+[22-Dec-2023 09:17:22 UTC] PHP Warning:  require(../predis/predis/Autoloader.php): Failed to open stream: No such file or directory in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 5
+[22-Dec-2023 09:17:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../predis/predis/Autoloader.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/gradqkpp/deevouge.com/poll/createpoll.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 5
+[22-Dec-2023 09:17:24 UTC] PHP Warning:  require(../predis/predis/Autoloader.php): Failed to open stream: No such file or directory in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 5
+[22-Dec-2023 09:17:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../predis/predis/Autoloader.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/gradqkpp/deevouge.com/poll/createpoll.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 5
+[22-Dec-2023 09:18:20 UTC] PHP Warning:  require(predis/predis/autoload.php): Failed to open stream: No such file or directory in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 5
+[22-Dec-2023 09:18:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'predis/predis/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/gradqkpp/deevouge.com/poll/createpoll.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 5
+[22-Dec-2023 09:18:30 UTC] PHP Warning:  require(../predis/predis/autoload.php): Failed to open stream: No such file or directory in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 5
+[22-Dec-2023 09:18:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../predis/predis/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/gradqkpp/deevouge.com/poll/createpoll.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 5
+[22-Dec-2023 09:18:32 UTC] PHP Warning:  require(../predis/predis/autoload.php): Failed to open stream: No such file or directory in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 5
+[22-Dec-2023 09:18:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../predis/predis/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/gradqkpp/deevouge.com/poll/createpoll.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 5
+[22-Dec-2023 09:18:56 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Client" not found in /home/gradqkpp/deevouge.com/poll/createpoll.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 31
+[22-Dec-2023 09:23:41 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Client" not found in /home/gradqkpp/deevouge.com/poll/createpoll.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 31
+[22-Dec-2023 09:25:07 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Client" not found in /home/gradqkpp/deevouge.com/poll/createpoll.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 31
+[22-Dec-2023 09:28:24 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "your_remote_redis_host" in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 30
+[22-Dec-2023 09:28:28 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "your_remote_redis_host" in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 30
+[22-Dec-2023 09:28:30 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "your_remote_redis_host" in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 30
+[22-Dec-2023 09:28:38 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "your_remote_redis_host" in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 30
+[22-Dec-2023 09:33:51 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Client" not found in /home/gradqkpp/deevouge.com/poll/createpoll.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 31
+[22-Dec-2023 09:34:40 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Client" not found in /home/gradqkpp/deevouge.com/poll/createpoll.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 31
+[22-Dec-2023 09:34:52 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Client" not found in /home/gradqkpp/deevouge.com/poll/createpoll.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 31
+[22-Dec-2023 09:36:25 UTC] PHP Parse error:  Unclosed '{' on line 12 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 471
+[22-Dec-2023 09:36:31 UTC] PHP Parse error:  Unclosed '{' on line 12 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 471
+[22-Dec-2023 09:36:33 UTC] PHP Parse error:  Unclosed '{' on line 12 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 471
+[22-Dec-2023 09:36:38 UTC] PHP Parse error:  Unclosed '{' on line 12 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 471
+[22-Dec-2023 09:37:27 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Client" not found in /home/gradqkpp/deevouge.com/poll/createpoll.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 31
+[22-Dec-2023 09:39:32 UTC] PHP Warning:  Undefined variable $poll in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 53
+[22-Dec-2023 09:39:32 UTC] PHP Warning:  Undefined variable $description in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 54
+[22-Dec-2023 09:39:32 UTC] PHP Warning:  Undefined variable $answer_options in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 55
+[22-Dec-2023 09:39:32 UTC] PHP Warning:  Undefined variable $start_date_time in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 56
+[22-Dec-2023 09:39:32 UTC] PHP Warning:  Undefined variable $end_date_time in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 57
+[22-Dec-2023 09:40:24 UTC] PHP Warning:  Undefined variable $poll in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 53
+[22-Dec-2023 09:40:24 UTC] PHP Warning:  Undefined variable $description in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 54
+[22-Dec-2023 09:40:24 UTC] PHP Warning:  Undefined variable $answer_options in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 55
+[22-Dec-2023 09:40:24 UTC] PHP Warning:  Undefined variable $start_date_time in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 56
+[22-Dec-2023 09:40:24 UTC] PHP Warning:  Undefined variable $end_date_time in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 57
+[22-Dec-2023 09:40:26 UTC] PHP Warning:  Undefined variable $poll in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 53
+[22-Dec-2023 09:40:26 UTC] PHP Warning:  Undefined variable $description in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 54
+[22-Dec-2023 09:40:26 UTC] PHP Warning:  Undefined variable $answer_options in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 55
+[22-Dec-2023 09:40:26 UTC] PHP Warning:  Undefined variable $start_date_time in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 56
+[22-Dec-2023 09:40:26 UTC] PHP Warning:  Undefined variable $end_date_time in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 57
+[22-Dec-2023 09:41:02 UTC] PHP Warning:  Undefined variable $poll in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 53
+[22-Dec-2023 09:41:02 UTC] PHP Warning:  Undefined variable $description in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 54
+[22-Dec-2023 09:41:02 UTC] PHP Warning:  Undefined variable $answer_options in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 55
+[22-Dec-2023 09:41:02 UTC] PHP Warning:  Undefined variable $start_date_time in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 56
+[22-Dec-2023 09:41:02 UTC] PHP Warning:  Undefined variable $end_date_time in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 57
+[22-Dec-2023 09:43:27 UTC] PHP Warning:  Undefined variable $poll in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 53
+[22-Dec-2023 09:43:27 UTC] PHP Warning:  Undefined variable $description in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 54
+[22-Dec-2023 09:43:27 UTC] PHP Warning:  Undefined variable $answer_options in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 55
+[22-Dec-2023 09:43:27 UTC] PHP Warning:  Undefined variable $start_date_time in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 56
+[22-Dec-2023 09:43:27 UTC] PHP Warning:  Undefined variable $end_date_time in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 57
+[22-Dec-2023 09:43:44 UTC] PHP Warning:  Undefined variable $poll in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 53
+[22-Dec-2023 09:43:44 UTC] PHP Warning:  Undefined variable $description in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 54
+[22-Dec-2023 09:43:44 UTC] PHP Warning:  Undefined variable $answer_options in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 55
+[22-Dec-2023 09:43:44 UTC] PHP Warning:  Undefined variable $start_date_time in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 56
+[22-Dec-2023 09:43:44 UTC] PHP Warning:  Undefined variable $end_date_time in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 57
+[22-Dec-2023 09:43:46 UTC] PHP Warning:  Undefined variable $poll in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 53
+[22-Dec-2023 09:43:46 UTC] PHP Warning:  Undefined variable $description in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 54
+[22-Dec-2023 09:43:46 UTC] PHP Warning:  Undefined variable $answer_options in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 55
+[22-Dec-2023 09:43:46 UTC] PHP Warning:  Undefined variable $start_date_time in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 56
+[22-Dec-2023 09:43:46 UTC] PHP Warning:  Undefined variable $end_date_time in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 57
+[22-Dec-2023 09:44:07 UTC] PHP Warning:  Undefined variable $poll in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 53
+[22-Dec-2023 09:44:07 UTC] PHP Warning:  Undefined variable $description in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 54
+[22-Dec-2023 09:44:07 UTC] PHP Warning:  Undefined variable $answer_options in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 55
+[22-Dec-2023 09:44:07 UTC] PHP Warning:  Undefined variable $start_date_time in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 56
+[22-Dec-2023 09:44:07 UTC] PHP Warning:  Undefined variable $end_date_time in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 57
+[22-Dec-2023 09:50:27 UTC] PHP Warning:  Undefined variable $poll in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 53
+[22-Dec-2023 09:50:27 UTC] PHP Warning:  Undefined variable $description in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 54
+[22-Dec-2023 09:50:27 UTC] PHP Warning:  Undefined variable $answer_options in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 55
+[22-Dec-2023 09:50:27 UTC] PHP Warning:  Undefined variable $start_date_time in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 56
+[22-Dec-2023 09:50:27 UTC] PHP Warning:  Undefined variable $end_date_time in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 57
+[22-Dec-2023 09:55:52 UTC] PHP Warning:  Undefined variable $poll in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 53
+[22-Dec-2023 09:55:52 UTC] PHP Warning:  Undefined variable $description in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 54
+[22-Dec-2023 09:55:52 UTC] PHP Warning:  Undefined variable $answer_options in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 55
+[22-Dec-2023 09:55:52 UTC] PHP Warning:  Undefined variable $start_date_time in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 56
+[22-Dec-2023 09:55:52 UTC] PHP Warning:  Undefined variable $end_date_time in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 57
+[22-Dec-2023 09:55:55 UTC] PHP Warning:  Undefined variable $poll in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 53
+[22-Dec-2023 09:55:55 UTC] PHP Warning:  Undefined variable $description in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 54
+[22-Dec-2023 09:55:55 UTC] PHP Warning:  Undefined variable $answer_options in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 55
+[22-Dec-2023 09:55:55 UTC] PHP Warning:  Undefined variable $start_date_time in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 56
+[22-Dec-2023 09:55:55 UTC] PHP Warning:  Undefined variable $end_date_time in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 57
+[22-Dec-2023 09:57:15 UTC] PHP Parse error:  Unclosed '{' on line 40 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 463
+[22-Dec-2023 09:57:18 UTC] PHP Parse error:  Unclosed '{' on line 40 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 463
+[22-Dec-2023 09:57:23 UTC] PHP Parse error:  Unclosed '{' on line 40 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 463
+[22-Dec-2023 10:00:10 UTC] PHP Parse error:  Unclosed '{' on line 40 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 463
+[22-Dec-2023 10:00:15 UTC] PHP Parse error:  Unclosed '{' on line 40 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 463
+[22-Dec-2023 10:00:17 UTC] PHP Parse error:  Unclosed '{' on line 40 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 463
+[22-Dec-2023 10:00:20 UTC] PHP Parse error:  Unclosed '{' on line 40 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 463
+[22-Dec-2023 10:01:48 UTC] PHP Parse error:  Unclosed '{' on line 40 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 463
+[22-Dec-2023 10:01:50 UTC] PHP Parse error:  Unclosed '{' on line 40 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 463
+[22-Dec-2023 10:02:14 UTC] PHP Warning:  Undefined variable $redis in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 51
+[22-Dec-2023 10:02:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function expire() on null in /home/gradqkpp/deevouge.com/poll/createpoll.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 51
+[22-Dec-2023 10:02:37 UTC] PHP Warning:  Undefined variable $poll in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 53
+[22-Dec-2023 10:02:37 UTC] PHP Warning:  Undefined variable $description in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 54
+[22-Dec-2023 10:02:37 UTC] PHP Warning:  Undefined variable $answer_options in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 55
+[22-Dec-2023 10:02:37 UTC] PHP Warning:  Undefined variable $start_date_time in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 56
+[22-Dec-2023 10:02:37 UTC] PHP Warning:  Undefined variable $end_date_time in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 57
+[22-Dec-2023 10:04:30 UTC] PHP Parse error:  Unclosed '{' on line 40 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 463
+[22-Dec-2023 10:06:10 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Client" not found in /home/gradqkpp/deevouge.com/poll/createpoll.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 37
+[22-Dec-2023 10:06:28 UTC] PHP Fatal error:  Uncaught Error: Class "Predis\Client" not found in /home/gradqkpp/deevouge.com/poll/createpoll.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 37
+[22-Dec-2023 10:08:11 UTC] PHP Parse error:  Unclosed '{' on line 40 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 463
+[22-Dec-2023 10:08:16 UTC] PHP Parse error:  Unclosed '{' on line 40 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 463
+[22-Dec-2023 10:08:18 UTC] PHP Parse error:  Unclosed '{' on line 40 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 463
+[22-Dec-2023 10:08:43 UTC] PHP Parse error:  Unclosed '{' on line 40 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 463
+[22-Dec-2023 10:09:05 UTC] PHP Warning:  Undefined variable $poll in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 53
+[22-Dec-2023 10:09:05 UTC] PHP Warning:  Undefined variable $description in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 54
+[22-Dec-2023 10:09:05 UTC] PHP Warning:  Undefined variable $answer_options in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 55
+[22-Dec-2023 10:09:05 UTC] PHP Warning:  Undefined variable $start_date_time in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 56
+[22-Dec-2023 10:09:05 UTC] PHP Warning:  Undefined variable $end_date_time in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 57
+[22-Dec-2023 10:09:47 UTC] PHP Warning:  Undefined variable $poll in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 53
+[22-Dec-2023 10:09:47 UTC] PHP Warning:  Undefined variable $description in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 54
+[22-Dec-2023 10:09:47 UTC] PHP Warning:  Undefined variable $answer_options in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 55
+[22-Dec-2023 10:09:47 UTC] PHP Warning:  Undefined variable $start_date_time in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 56
+[22-Dec-2023 10:09:47 UTC] PHP Warning:  Undefined variable $end_date_time in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 57
+[22-Dec-2023 10:09:55 UTC] PHP Warning:  Undefined variable $poll in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 53
+[22-Dec-2023 10:09:55 UTC] PHP Warning:  Undefined variable $description in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 54
+[22-Dec-2023 10:09:55 UTC] PHP Warning:  Undefined variable $answer_options in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 55
+[22-Dec-2023 10:09:55 UTC] PHP Warning:  Undefined variable $start_date_time in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 56
+[22-Dec-2023 10:09:55 UTC] PHP Warning:  Undefined variable $end_date_time in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 57
+[22-Dec-2023 10:12:46 UTC] PHP Warning:  Undefined variable $poll in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 53
+[22-Dec-2023 10:12:46 UTC] PHP Warning:  Undefined variable $description in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 54
+[22-Dec-2023 10:12:46 UTC] PHP Warning:  Undefined variable $answer_options in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 55
+[22-Dec-2023 10:12:46 UTC] PHP Warning:  Undefined variable $start_date_time in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 56
+[22-Dec-2023 10:12:46 UTC] PHP Warning:  Undefined variable $end_date_time in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 57
+[22-Dec-2023 10:22:22 UTC] PHP Warning:  Undefined variable $poll in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 53
+[22-Dec-2023 10:22:22 UTC] PHP Warning:  Undefined variable $description in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 54
+[22-Dec-2023 10:22:22 UTC] PHP Warning:  Undefined variable $answer_options in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 55
+[22-Dec-2023 10:22:22 UTC] PHP Warning:  Undefined variable $start_date_time in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 56
+[22-Dec-2023 10:22:22 UTC] PHP Warning:  Undefined variable $end_date_time in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 57
+[22-Dec-2023 10:26:07 UTC] PHP Warning:  Undefined variable $poll in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 53
+[22-Dec-2023 10:26:07 UTC] PHP Warning:  Undefined variable $description in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 54
+[22-Dec-2023 10:26:07 UTC] PHP Warning:  Undefined variable $answer_options in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 55
+[22-Dec-2023 10:26:07 UTC] PHP Warning:  Undefined variable $start_date_time in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 56
+[22-Dec-2023 10:26:07 UTC] PHP Warning:  Undefined variable $end_date_time in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 57
+[22-Dec-2023 10:26:29 UTC] PHP Warning:  Undefined variable $poll in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 53
+[22-Dec-2023 10:26:29 UTC] PHP Warning:  Undefined variable $description in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 54
+[22-Dec-2023 10:26:29 UTC] PHP Warning:  Undefined variable $answer_options in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 55
+[22-Dec-2023 10:26:29 UTC] PHP Warning:  Undefined variable $start_date_time in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 56
+[22-Dec-2023 10:26:29 UTC] PHP Warning:  Undefined variable $end_date_time in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 57
+[22-Dec-2023 10:28:45 UTC] PHP Parse error:  Unclosed '{' on line 40 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 463
+[22-Dec-2023 10:33:04 UTC] PHP Parse error:  Unclosed '{' on line 40 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 463
+[22-Dec-2023 10:34:47 UTC] PHP Parse error:  Unclosed '{' on line 41 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 464
+[22-Dec-2023 10:34:50 UTC] PHP Parse error:  Unclosed '{' on line 41 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 464
+[22-Dec-2023 10:34:57 UTC] PHP Parse error:  Unclosed '{' on line 41 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 464
+[22-Dec-2023 10:35:23 UTC] PHP Parse error:  Unclosed '{' on line 41 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 464
+[22-Dec-2023 10:35:40 UTC] PHP Parse error:  Unclosed '{' on line 41 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 464
+[22-Dec-2023 10:35:52 UTC] PHP Parse error:  Unclosed '{' on line 41 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 464
+[22-Dec-2023 10:35:55 UTC] PHP Parse error:  Unclosed '{' on line 41 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 464
+[22-Dec-2023 10:36:00 UTC] PHP Parse error:  Unclosed '{' on line 41 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 464
+[22-Dec-2023 10:36:28 UTC] PHP Parse error:  Unclosed '{' on line 41 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 464
+[22-Dec-2023 10:38:33 UTC] PHP Parse error:  Unclosed '{' on line 41 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 464
+[22-Dec-2023 10:38:35 UTC] PHP Parse error:  Unclosed '{' on line 41 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 464
+[22-Dec-2023 10:38:36 UTC] PHP Parse error:  Unclosed '{' on line 41 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 464
+[22-Dec-2023 10:38:38 UTC] PHP Parse error:  Unclosed '{' on line 41 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 464
+[22-Dec-2023 10:38:40 UTC] PHP Parse error:  Unclosed '{' on line 41 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 464
+[22-Dec-2023 10:39:15 UTC] PHP Parse error:  Unclosed '{' on line 41 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 464
+[22-Dec-2023 10:41:56 UTC] PHP Parse error:  Unclosed '{' on line 41 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 464
+[22-Dec-2023 10:41:59 UTC] PHP Parse error:  Unclosed '{' on line 41 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 464
+[22-Dec-2023 10:42:52 UTC] PHP Parse error:  Unclosed '{' on line 40 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 463
+[22-Dec-2023 10:43:43 UTC] PHP Parse error:  Unclosed '{' on line 40 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 463
+[22-Dec-2023 10:44:11 UTC] PHP Warning:  Undefined variable $redis in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 51
+[22-Dec-2023 10:44:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function expire() on null in /home/gradqkpp/deevouge.com/poll/createpoll.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 51
+[22-Dec-2023 10:44:22 UTC] PHP Warning:  Undefined variable $poll in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 53
+[22-Dec-2023 10:44:22 UTC] PHP Warning:  Undefined variable $description in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 54
+[22-Dec-2023 10:44:22 UTC] PHP Warning:  Undefined variable $answer_options in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 55
+[22-Dec-2023 10:44:22 UTC] PHP Warning:  Undefined variable $start_date_time in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 56
+[22-Dec-2023 10:44:22 UTC] PHP Warning:  Undefined variable $end_date_time in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 57
+[22-Dec-2023 11:03:23 UTC] PHP Parse error:  Unclosed '{' on line 40 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 463
+[22-Dec-2023 11:03:27 UTC] PHP Parse error:  Unclosed '{' on line 40 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 463
+[22-Dec-2023 11:03:46 UTC] PHP Parse error:  Unclosed '{' on line 40 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 463
+[22-Dec-2023 11:05:17 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 38
+[22-Dec-2023 11:05:20 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 38
+[22-Dec-2023 11:05:45 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 38
+[22-Dec-2023 11:06:29 UTC] PHP Parse error:  Unclosed '{' on line 40 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 463
+[22-Dec-2023 11:06:46 UTC] PHP Parse error:  Unclosed '{' on line 40 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 463
+[22-Dec-2023 11:06:48 UTC] PHP Parse error:  Unclosed '{' on line 40 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 463
+[22-Dec-2023 11:07:02 UTC] PHP Parse error:  Unclosed '{' on line 40 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 463
+[22-Dec-2023 11:07:04 UTC] PHP Parse error:  Unclosed '{' on line 40 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 463
+[22-Dec-2023 11:07:16 UTC] PHP Warning:  Undefined variable $poll in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 53
+[22-Dec-2023 11:07:16 UTC] PHP Warning:  Undefined variable $description in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 54
+[22-Dec-2023 11:07:16 UTC] PHP Warning:  Undefined variable $answer_options in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 55
+[22-Dec-2023 11:07:16 UTC] PHP Warning:  Undefined variable $start_date_time in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 56
+[22-Dec-2023 11:07:16 UTC] PHP Warning:  Undefined variable $end_date_time in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 57
+[22-Dec-2023 11:18:39 UTC] PHP Parse error:  Unclosed '{' on line 40 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 463
+[22-Dec-2023 11:25:29 UTC] PHP Parse error:  Unclosed '{' on line 40 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 463
+[22-Dec-2023 11:29:16 UTC] PHP Parse error:  Unclosed '{' on line 40 in /home/gradqkpp/deevouge.com/poll/createpoll.php on line 463
